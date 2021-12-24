@@ -6,7 +6,9 @@ Script for auditing SAP HANA plattforms in Java
 For in-deep version, as well, for others systems/plattforms (Cybersecurity, Oracle, MySQL, AIX, among others), pls, contact me! (luis.alfie@gmail.com)
 
 
-
 <sup><sup>1</sup> Even, it could be (and there are) more than one testing for each recommendation.</sup>
 
 <sup><sup>2</sup> The full version, it has incoporated this features, as well, it allows the remote (SSH2) connecting to server in order to run the testing commands.
+
+  ![image](https://user-images.githubusercontent.com/40904281/147306923-d8458cf2-f323-44d2-94e6-91aea0e0eec2.png)
+
