@@ -1,7 +1,7 @@
 # Auditing-SAP-Minimal
 Script for auditing SAP HANA plattforms in Java
 
-***(Under development)*** Based on the document "SAP HANA Security Checklists and Recommendations (Document Version: 1.0 – 2021-12-03)", this is a minimal/example version. The database, only include testings for one recommendation of each recommendation type/subject (there are 44 recommendations and this version include 10, only). On the other hand, this version of the script doesn't include the feature of running testing queries/OS-commands<sup>1</sup>.
+Based on the document "SAP HANA Security Checklists and Recommendations (Document Version: 1.0 – 2021-12-03)", this is a minimal/example version. The database, only include testings for one recommendation of each recommendation type/subject (there are 44 recommendations and this version include 10, only). On the other hand, this version of the script doesn't include the feature of running testing queries/OS-commands<sup>1</sup>.
 
 For in-deep version, as well, for others systems/plattforms (Cybersecurity, Oracle, MySQL, AIX, among others), pls, contact me! (luis.alfie@gmail.com)
 
